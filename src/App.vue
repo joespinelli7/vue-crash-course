@@ -10,7 +10,7 @@ let newVar = "heyooo";
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld v-bind:msg="'You did it! ' + newVar" />
+      <HelloWorld :msg="'You did it! ' + newVar" />
     </div>
   </header>
 
