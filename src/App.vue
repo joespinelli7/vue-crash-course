@@ -14,9 +14,9 @@ let newVar = "heyooo";
     </div>
   </header>
 
-<!--  <main>-->
-<!--    <TheWelcome />-->
-<!--  </main>-->
+  <main>
+    <TheWelcome />
+  </main>
 </template>
 
 <style>
