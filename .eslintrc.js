@@ -6,9 +6,7 @@ module.exports = {
         'plugin:vue/vue3-recommended'
     ],
     rules: {
-        "no-console": "off",
-        'vue/no-unused-vars': 'error',
-        'vue/script-setup-uses-vars': 'error',
+        'no-console': 'off',
         "vue/singleline-html-element-content-newline": 'off',
         'vue/max-attributes-per-line': 'off',
         'vue/html-self-closing': 'off',
